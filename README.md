@@ -22,8 +22,8 @@ learning-bookshelf/
 ```text
 learning-bookshelf/
 ├── apps/
-│   ├── web/                 # ユーザー画面（React等）
-│   ├── api/                 # バックエンド（Go等）
+│   ├── frontend/            # ユーザー画面（React等）
+│   ├── backend/             # バックエンド（Go等）
 │   └── admin/               # 管理画面（Rails等）
 │
 ├── docs/
